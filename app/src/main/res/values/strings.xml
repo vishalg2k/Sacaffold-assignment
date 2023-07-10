@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Scaffold Assignment</string>
+    <string name="title_activity_display_page">DisplayPage</string>
+    <string name="title_activity_date_time_screen">DateTimeScreen</string>
+    <string name="title_activity_main_screen_text">MainScreenText</string>
+    <string name="title_activity_audio_video_page">AudioVideoPage</string>
+</resources>
